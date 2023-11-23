@@ -1,2 +1,2 @@
-addtionof two numbers
+addtion of two numbers
   
